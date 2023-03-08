@@ -22,7 +22,7 @@ app.post('/mail', async(req,res)=>{
         secure : true,
         auth : {
             user : 'saidhakshin75@gmail.com',
-            pass : 'qmpzFGH4563',
+            pass : '<password_here>',
         },
     });
     
